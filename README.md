@@ -25,3 +25,6 @@ Steps to run the program
 
 2. Pass this configurations for example **[[3,4], [4,5], [2,3], [3,4]]**.
 3. Then pass the number of passengers like **30**.
+
+For the above sample of inputs the output will be like this.
+![output](https://github.com/dineshmahesh/airplane.seating.algorithm/blob/main/airplane_seating_output.png)
