@@ -1,0 +1,44 @@
+WBS:
+
+    Get config values from input
+    convert the String to 2D array
+    Get passengers count from input
+    create the layout of the plane
+    Craete seats with the created layout
+    Then assign the seats to the passengers with the given order and seat type
+    First we need to fill from first row(left to right)
+      First AISLE
+      Second WINDOW
+      Third MIDDLE
+
+    print the layout with passenger number and seat type
+
+Files structure:
+    com.sample.airplane.seating.algorithm
+        builder
+            LayoutBuilder
+            SeatBuilder
+            SectionBuilder
+        exception
+            SeatingAlgorithmError
+            SeatingAlgorithmErrors
+            SeatingAlgorithmException
+        factory
+            AirplaneSeatingAlgorithm
+            SeatingAlgorithm
+            SeatingAlgorithmFactory
+        model
+            Layout
+            Seat
+            Section
+            Type
+        util
+            LayoutPrintUtil
+            SeatAllocationUtil
+        validator
+            SeatingAlgorithmValidator
+        AirplanseSeatingAlgorithmApplication
+        
+Used Design patterns
+    Builder Pattern
+    Factory Pattern
