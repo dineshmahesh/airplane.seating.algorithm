@@ -12,7 +12,9 @@ Input to the program will be:
     • A 2D array that represents the rows and columns [[3,4], [4,5], [2,3], [3,4]]. This 2D array is just an example. 
     • Number of passengers waiting in queue.
 
-For more details look into the [PDF File]() 
+For more details look into the [PDF File](https://github.com/dineshmahesh/airplane.seating.algorithm/blob/main/0-Dev-Airplane-SS.pdf)
+
+For Work breakdown structure details look into the file [wbs.txt](https://github.com/dineshmahesh/airplane.seating.algorithm/blob/main/wbs.txt)
     
 Steps to run the program
 
